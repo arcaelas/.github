@@ -3,8 +3,9 @@
   
 
 # Welcome to AI (Arcaelas Insiders)
-
-![Github Sponsor](https://img.shields.io/github/sponsors/arcaela?label=CONTRIBUTE&style=social) ![Open Collective](https://img.shields.io/opencollective/backers/arcaelas?label=OPEN%20COLLECTIVE&style=social) ![Github Followers](https://img.shields.io/github/followers/arcaelas?style=social)
+![Github Sponsor](https://img.shields.io/github/sponsors/arcaela?label=CONTRIBUTE&style=social)
+![Open Collective](https://img.shields.io/opencollective/backers/arcaelas?label=OPEN%20COLLECTIVE&style=social)
+![Github Followers](https://img.shields.io/github/followers/arcaelas?style=social)
 
 ### Service Providers
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -15,10 +16,9 @@
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 
 ### Donate to Non-Profit Organization
-![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
-![Open Collective](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)
-![Github Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)
-![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+[![Open Collective](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/arcaelas)
+[![Github Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/arcaela)
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/arcaelas)
 
 
 **Arcaelas Insiders**, a _non-profit community_ that is committed to imparting fair software education to everyone in the world.
