@@ -6,6 +6,21 @@
 
 ![Github Sponsor](https://img.shields.io/github/sponsors/arcaela?label=CONTRIBUTE&style=social) ![Open Collective](https://img.shields.io/opencollective/backers/arcaelas?label=OPEN%20COLLECTIVE&style=social) ![Github Followers](https://img.shields.io/github/followers/arcaelas?style=social)
 
+### Service Providers
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
+![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+
+### Donate to Non-Profit Organization
+![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+![Open Collective](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)
+![Github Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)
+![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+
+
 **Arcaelas Insiders**, a _non-profit community_ that is committed to imparting fair software education to everyone in the world.
 The world is a very big place, but with the support of each one of our collaborators we have grown in these last 6 years.
 
