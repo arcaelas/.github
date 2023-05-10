@@ -4,6 +4,7 @@
 
 # Welcome to AI (Arcaelas Insiders)
 
+![Github Sponsor](https://img.shields.io/github/sponsors/arcaela?label=CONTRIBUTE&style=social) ![Open Collective](https://img.shields.io/opencollective/backers/arcaelas?label=OPEN%20COLLECTIVE&style=social) ![Github Followers](https://img.shields.io/github/followers/arcaelas?style=social)
 
 **Arcaelas Insiders**, a _non-profit community_ that is committed to imparting fair software education to everyone in the world.
 The world is a very big place, but with the support of each one of our collaborators we have grown in these last 6 years.
